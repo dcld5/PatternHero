@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MaterialButtonLayer
+  - MaterialText
+  - MaterialRadioButton
+  - TurningPoint
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Collectable
+  - NPC
+  - BG
+  - black fruit
+  - answer fruit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Very Back
+    uniqueID: 2138543125
+    locked: 0
+  - name: Background
+    uniqueID: 2114432735
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 3172793155
+    locked: 0
+  - name: UI
+    uniqueID: 360913313
+    locked: 0
